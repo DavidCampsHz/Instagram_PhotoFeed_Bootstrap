@@ -4,3 +4,11 @@ img {
     object-fit: cover;
   }
 
+#nav-profile {
+    background: grey;
+    margin: 0;
+}
+
+#post{
+  margin-top: 40px;
+}
